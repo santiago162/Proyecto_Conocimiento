@@ -3,6 +3,13 @@
 
 ---
 
+## Enlace de video 
+
+https://youtu.be/R_wfwejPYlw
+
+---
+
+
 ## ¿Qué es este proyecto?
 
 Es una actividad de evaluación del módulo de JavaScript donde debes completar un sistema de inventario web ya parcialmente construido. La interfaz, los estilos y la lógica de navegación están listos. Tu trabajo es implementar las **6 funciones JavaScript** que realizan los cálculos de inventario.
